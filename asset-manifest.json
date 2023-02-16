@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_basic_form/static/css/main.37599481.css",
+    "main.js": "/react_basic_form/static/js/main.5da5ed1c.js",
+    "index.html": "/react_basic_form/index.html",
+    "main.37599481.css.map": "/react_basic_form/static/css/main.37599481.css.map",
+    "main.5da5ed1c.js.map": "/react_basic_form/static/js/main.5da5ed1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37599481.css",
+    "static/js/main.5da5ed1c.js"
+  ]
+}
