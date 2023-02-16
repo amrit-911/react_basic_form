@@ -1,0 +1,25 @@
+.left {
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 99.19%;
+    letter-spacing: 0.025em;
+    color: #FFFFFF;
+    width: 277px;
+    height: 71px;
+    text-align: left;
+    margin: auto;
+}
+
+.left p {
+    width: 315px;
+    height: 9px;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 1.5;
+    letter-spacing: 0.018em;
+    color: #FFFFFF;
+    text-align: left;
+}
